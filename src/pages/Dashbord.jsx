@@ -43,7 +43,7 @@ export default function Dashbord() {
                     <Td>{e.difficulty}</Td>
                     <Td>{e.score}</Td>
                     <Td>{e.incA}</Td>
-                    <Td>{e.score * 5}</Td>
+                    <Td>{e.score}</Td>
                     <Td>{e.percentage}%</Td>
                   </Tr>
                 ))
